@@ -1,0 +1,23 @@
+{
+   "config": {
+      "html": true,
+      "php": true,
+      "phtml": true,
+      "scss": true,
+      "css": true,
+      "htacess": true,
+      "js": true,
+      "sql": false,
+      "others": true
+   },
+   "strings": {
+      "*domain-name*": {
+         "dev": "",
+         "build": ""
+      },
+      "*url*": {
+         "dev": "",
+         "build": ""
+      }
+   }
+}
